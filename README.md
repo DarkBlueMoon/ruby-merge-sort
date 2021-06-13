@@ -1,4 +1,4 @@
-# ruby-merge-sort
+# Merge Sort
 
 A small practice project in Ruby using recursion to implement Merge Sort.
 
